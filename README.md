@@ -1,4 +1,10 @@
-### Hi there 👋
+### 自我介绍一下纸 👋
+
+### 我叫刘栋栋
+
+### Java攻城狮一枚
+
+### Base 北京
 
 <!--
 **lddo/lddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
