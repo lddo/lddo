@@ -4,11 +4,11 @@
 
 ##### Java攻城狮一枚
 
-##### Base 北京
+##### Base 北京🏙
 
-##### 平时喜欢运动、剧本杀、王者荣耀、听歌，偶尔看电影哈哈
+##### 平时喜欢运动、剧本杀、王者荣耀、听歌，偶尔看电影哈哈😄 
 
-##### 如果有志同道合的朋友呢，给我提个Issue，留下联系方式，我来加你
+##### 如果有志同道合的朋友呢，给我提个Issue，留下联系方式，我来加你💬 
 
 <!--
 **lddo/lddo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
